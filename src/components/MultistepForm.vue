@@ -85,7 +85,7 @@ const resetForm = () => {
 
 <template>
   <div class="flex h-screen w-full justify-center items-center">
-    <div class="bg-white p-6 w-full h-full md:rounded-lg md:max-w-md md:h-fit">
+    <div class="bg-white p-6 w-full h-full md:rounded-lg md:max-w-md md:h-fit md:shadow-lg">
       <!-- Progress bar -->
       <div class="flex justify-between my-6" >
         <!-- Step 1 Indicator -->
