@@ -1,6 +1,6 @@
 <script setup>
 import { ref, computed } from "vue";
-import formSchema from "../data/formSchema.json";
+import formSchema from "@/data/formSchema.json";
 import Swal from "sweetalert2";
 
 
