@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import MultiStepForm from '@/components/MultiStepForm.vue';
+import MultiStepForm from './components/MultiStepForm.vue';
 
 export default {
   components: {
